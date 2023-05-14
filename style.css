@@ -1,0 +1,48 @@
+.wrapper-first {
+    background: #2C2D33;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 6px;
+    width: 430px;
+    height: 448px;
+    margin: 50px auto;
+}
+
+* {
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+
+h2 {
+    font: 600 16px "Roboto";
+    font-style: normal;
+    line-height: 19px;
+    color: #828282;
+    padding-top: 28px;
+    margin-left: 45px;
+
+}
+
+h1 {
+    font: 500 40px "Roboto";
+    font-style: normal;
+    line-height: 47px;
+    letter-spacing: -0.0375em;
+    color: #FFFFFF;
+    padding-top: 4px;
+    margin-left: 45px;
+}
+
+h3{
+    font: 400 14px "Roboto";
+    font-style: normal;
+    line-height: 16px;
+    color: #FFFFFF;
+    padding-top: 4px;
+    margin-left: 45px;
+
+}
+.line{
+    border: 2px solid #4F4F4F;
+    margin-top: 145px ;
+}
