@@ -14,8 +14,7 @@
 }
 
 h2 {
-    font: 600 16px "Roboto";
-    font-style: normal;
+    font: 600 16px "Roboto";   
     line-height: 19px;
     color: #828282;
     padding-top: 28px;
@@ -24,8 +23,7 @@ h2 {
 }
 
 h1 {
-    font: 500 40px "Roboto";
-    font-style: normal;
+    font: 500 40px "Roboto";  
     line-height: 47px;
     letter-spacing: -0.0375em;
     color: #FFFFFF;
@@ -33,16 +31,35 @@ h1 {
     margin-left: 45px;
 }
 
-h3{
-    font: 400 14px "Roboto";
-    font-style: normal;
+h3 {
+    font: 400 14px "Roboto";    
     line-height: 16px;
     color: #FFFFFF;
     padding-top: 4px;
     margin-left: 45px;
+}
+.line {
+    margin-top: 27px;
+    border: 2px solid #4F4F4F;
 
 }
-.line{
-    border: 2px solid #4F4F4F;
-    margin-top: 145px ;
+
+.table {
+    background-image: url(./Group2281.png);
+    width: 364px;
+    height: 197px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 29px;
+    margin-top:18px ;
 }
+
+.button{
+    background: #63ABFD;
+    height: 8px;
+    width: 21px;
+margin-top: 44px;
+margin-left: 72px;
+}
+
+.
