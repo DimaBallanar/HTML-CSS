@@ -79,3 +79,206 @@ h3 {
    
     
 }
+.wrapper-second {
+    background: #FFFFFF;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+    height: 448px;
+    width: 430px;
+    border-radius: 6px;
+    margin: 50px auto;
+}
+
+.header1 {
+    font: 500 40px "Roboto";
+    line-height: 47px;
+    letter-spacing: -0.0375em;
+    color: #0B1354;   ;
+    padding-top: 4px;
+    margin-left: 45px;
+}
+
+.header3 {
+    font: 400 14px "Roboto";
+    line-height: 16px;
+    color: #4F4F4F;
+    padding-top: 4px;
+    margin-left: 45px;
+}
+
+.line1 {
+    border: 2px solid #ECECEC;
+    margin-top: 27px;
+}
+
+
+
+.row
+{
+    display: flex;
+}
+
+.circle {
+    background-image: url(./Group2280.png);
+    width: 197px;
+    height: 197px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 4.2px;
+    margin-top: 3.27px;
+    
+}
+
+.buttom1 {
+
+    display: flex;
+    margin-left: 13.86px;
+    margin-top: 32.86px;
+}
+
+.object1 {
+    background: #165BAA;
+    height: 8px;
+    width: 21px;
+}
+
+.product1 {
+    font: 400 12px "Inter";
+    line-height: 14.52px;
+    color: #4F4F4F;
+    margin-left: 9px;
+}
+
+
+.buttom2 {
+
+    display: flex;
+    margin-left: 13.86px;
+    margin-top: 17px;
+}
+
+.object2 {
+    background: #F765A3;
+    height: 8px;
+    width: 21px;
+}
+
+.product2 {
+    font: 400 12px "Inter";
+    line-height: 14.52px;
+    color: #4F4F4F;
+    margin-left: 9px;
+}
+
+.buttom3 {
+
+    display: flex;
+    margin-left: 13.86px;
+    margin-top: 17px;
+}
+
+.object3 {
+    background: #16BFD6;
+    height: 8px;
+    width: 21px;
+}
+
+.product3 {
+    font: 400 12px "Inter";
+    line-height: 14.52px;
+    color: #4F4F4F;
+    margin-left: 9px;
+}
+
+
+
+.wrapper-third {
+    background: #2C2D33;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+    height: 448px;
+    width: 430px;
+    border-radius: 6px;
+    margin: 50px auto;
+}
+
+
+.diagram {
+    background-image: url(./Group2294.png);
+    width: 365.4653015136719px;
+    height: 197px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 29px;
+    margin-top: 18px;
+    
+}
+
+
+.row1
+{
+    display: flex;
+}
+
+
+
+.buttom1-1 {
+
+    display: flex;
+    margin-left: 72px;
+    margin-top: 44px;
+}
+
+.object1-1 {
+    background: #165BAA;
+    height: 8px;
+    width: 21px;
+}
+
+.product1-1 {
+    font: 400 12px "Inter";
+    line-height: 14.52px;
+    color: #FFFFFF;
+    margin-left: 9px;
+}
+
+.buttom2-1 {
+
+    display: flex;
+    margin-left: 13px;
+    margin-top: 44px;
+}
+
+
+.object2-1 {
+    background: #A155B9;
+    height: 8px;
+    width: 21px;
+}
+
+.product2-1 {
+    font: 400 12px "Inter";
+    line-height: 14.52px;
+    color: #FFFFFF;
+    margin-left: 9px;
+}
+
+
+.buttom3-1 {
+
+    display: flex;
+    margin-left: 13px;
+    margin-top: 44px;
+}
+
+
+.object3-1 {
+    background: #F765A3;
+    height: 8px;
+    width: 21px;
+}
+
+.product3-1 {
+    font: 400 12px "Inter";
+    line-height: 14.52px;
+    color: #FFFFFF;
+    margin-left: 9px;
+}
